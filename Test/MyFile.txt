@@ -1,1 +1,2 @@
 This is a text file created.
+Some new content has been added
